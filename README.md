@@ -9,3 +9,6 @@ terranine is an integaration tool that support secure data integration between c
 https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-terraform
 https://github.com/hashicorp/terraform/blob/main/docs/architecture.md
 https://developer.hashicorp.com/terraform/tutorials/docker-get-started/docker-build
+Notes:
+If you are using nodejs then install touch using following command 
+npm install touch-cli -g
